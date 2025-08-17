@@ -1,7 +1,6 @@
+# Archived !!!
 
-
-This fork is barely maintained. 
-
+This project is no longer actively maintained. 
 There exists a fork with very active development at https://github.com/DreymaR/BigBagKbdTrixPKL
 Maybe you'll find some other options you would like there.
 
